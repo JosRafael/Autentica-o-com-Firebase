@@ -14,7 +14,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 ```
 # Clone este repositório
-$ git clone 
+$ git clone https://github.com/JosRafael/Autentica-o-com-Firebase
 
 ```
 
